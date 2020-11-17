@@ -3,7 +3,7 @@
 :toc: macro
 
 = messenger4j
-
+[![](https://jitpack.io/v/cjcharles777/messenger4j.svg)](https://jitpack.io/#cjcharles777/messenger4j)
 image:https://travis-ci.org/messenger4j/messenger4j.svg?branch=master[Build Status,link=https://travis-ci.org/messenger4j/messenger4j]
 image:https://api.codacy.com/project/badge/Grade/b26d8f1fe4794b89b2ba439f35ac2af4[Codacy Badge,link=https://www.codacy.com/app/max_11/messenger4j?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=messenger4j/messenger4j&amp;utm_campaign=Badge_Grade]
 image:https://coveralls.io/repos/github/messenger4j/messenger4j/badge.svg[Coverage Status,link=https://coveralls.io/github/messenger4j/messenger4j]
